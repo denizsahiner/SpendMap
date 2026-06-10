@@ -1,0 +1,12 @@
+[     112ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/8f226_next_dist_53dface4._.js:2297
+[    4916ms] [LOG] [Fast Refresh] done in 4903ms @ http://localhost:3000/_next/static/chunks/8f226_next_dist_53dface4._.js:2297
+[    5017ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/8f226_next_dist_53dface4._.js:2297
+[    5189ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/8f226_next_dist_53dface4._.js:2297
+[    5232ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/8f226_next_dist_53dface4._.js:2297
+[    5301ms] [LOG] %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit @ http://localhost:3000/_next/static/chunks/8f226_next_dist_53dface4._.js:2297
+[    5301ms] [LOG] %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {route: /preview, path: /preview} @ http://localhost:3000/_next/static/chunks/8f226_next_dist_53dface4._.js:2297
+[    5302ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:3000/preview color: rgb(120, 120, 120) color: inherit {o: http://localhost:3000/preview, sv: 0.1.3, sdkn: @vercel/analytics/next, sdkv: 1.6.1, ts: 1776681703028} /_vercel/insights/view @ http://localhost:3000/_next/static/chunks/8f226_next_dist_53dface4._.js:2297
+[    5356ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/8f226_next_dist_53dface4._.js:2297
+[    5709ms] [LOG] [Fast Refresh] done in 454ms @ http://localhost:3000/_next/static/chunks/8f226_next_dist_53dface4._.js:2297
+[   20530ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/8f226_next_dist_53dface4._.js:2297
+[   22045ms] [LOG] [Fast Refresh] done in 1353ms @ http://localhost:3000/_next/static/chunks/8f226_next_dist_53dface4._.js:2297

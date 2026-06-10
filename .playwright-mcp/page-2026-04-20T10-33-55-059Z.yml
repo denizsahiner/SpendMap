@@ -1,0 +1,34 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - img [ref=e6]
+        - text: SpendMap
+      - heading "See where spend actually flows. Not just where it lives." [level=1] [ref=e9]:
+        - text: See where spend actually
+        - emphasis [ref=e10]: flows
+        - text: .
+        - text: Not just where it lives.
+      - paragraph [ref=e11]:
+        - text: Pin any UK postcode area and SpendMap surfaces the neighbours stealing basket-share, the ones you're quietly stealing from, and the agent-ready answer to
+        - emphasis [ref=e12]: why
+        - text: .
+      - img [ref=e14]:
+        - generic [ref=e16]:
+          - generic [ref=e19]: CV1
+          - generic [ref=e23]: M1
+          - generic [ref=e27]: B2
+          - generic [ref=e31]: LE3
+          - generic [ref=e35]: NG2
+          - generic [ref=e39]: OX4
+      - generic [ref=e40]: © 2026 SpendMap LtdPrivacySecurityStatus
+    - generic [ref=e42]:
+      - heading "Sign in to SpendMap" [level=1] [ref=e43]
+      - paragraph [ref=e44]: Enter your work email and we'll send a sign-in code.
+      - generic [ref=e45]:
+        - generic [ref=e46]:
+          - text: Work email
+          - textbox "Work email" [active] [ref=e47]:
+            - /placeholder: you@company.com
+        - button "Send verification code" [ref=e48]
+  - alert [ref=e49]

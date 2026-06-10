@@ -1,0 +1,139 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - generic "SpendMap" [ref=e4]:
+        - img [ref=e5]
+      - button "Workspace" [ref=e8] [cursor=pointer]:
+        - img [ref=e9]
+      - button "Card Library" [ref=e12] [cursor=pointer]:
+        - img [ref=e13]
+      - button "Saved Queries" [ref=e17] [cursor=pointer]:
+        - img [ref=e18]
+      - button "Settings" [ref=e21] [cursor=pointer]:
+        - img [ref=e22]
+      - button "U" [ref=e25] [cursor=pointer]
+    - generic [ref=e26]:
+      - generic [ref=e27]:
+        - heading "Query builder" [level=2] [ref=e28]
+        - paragraph [ref=e29]: Pick a district, metric, and window. Results pin as cards.
+      - generic [ref=e30]:
+        - generic [ref=e31]:
+          - generic [ref=e32]:
+            - img [ref=e33]
+            - text: Map type
+          - generic [ref=e34]:
+            - button "Standard" [ref=e35]:
+              - img [ref=e36]
+              - text: Standard
+            - button "Difference" [ref=e38]:
+              - img [ref=e39]
+              - text: Difference
+        - generic [ref=e43]:
+          - generic [ref=e44]:
+            - img [ref=e45]
+            - text: Flow direction
+          - generic [ref=e48]:
+            - button "Origin" [ref=e49]
+            - button "Destination" [ref=e50]
+        - generic [ref=e51]:
+          - generic [ref=e52]:
+            - img [ref=e53]
+            - text: Time period
+          - generic [ref=e55]:
+            - combobox [ref=e56]:
+              - generic: "2023"
+              - img
+            - combobox [ref=e57]:
+              - generic: Q1
+              - img
+        - generic [ref=e58]:
+          - generic [ref=e59]:
+            - img [ref=e60]
+            - text: Focus district
+          - generic [ref=e64]:
+            - img [ref=e65]
+            - textbox "Search by postcode or area..." [ref=e68]
+          - paragraph [ref=e69]: "Tip: click any postcode area directly on the map."
+        - generic [ref=e70]:
+          - img [ref=e71]
+          - generic [ref=e73]:
+            - text: Not sure where to look? Ask the
+            - strong [ref=e74]: Analyst
+            - text: on the right — it can compose queries and pin answer cards for you.
+      - button "Show on map ⌘↵" [disabled] [ref=e76]:
+        - img [ref=e77]
+        - text: Show on map
+        - generic [ref=e80]: ⌘↵
+    - generic [ref=e81]:
+      - generic [ref=e82]:
+        - generic [ref=e83]:
+          - img [ref=e84]
+          - generic [ref=e87]: SpendMap
+          - generic [ref=e88]: /
+          - generic [ref=e89]: UK Districts
+          - generic [ref=e90]: /
+          - generic [ref=e91]: No focus
+        - generic [ref=e92]: Live · 2023 Q1
+        - button "Fullscreen" [ref=e94] [cursor=pointer]:
+          - img [ref=e95]
+          - text: Fullscreen
+      - generic [ref=e100]:
+        - generic [ref=e102]:
+          - paragraph [ref=e106]: Generating a map...
+          - generic:
+            - generic:
+              - generic: Spend
+        - generic [ref=e107]:
+          - generic [ref=e108]:
+            - heading "Data cards" [level=3] [ref=e109]
+            - generic [ref=e110]: "0"
+            - generic [ref=e111]:
+              - button "Both" [ref=e112] [cursor=pointer]
+              - button "Manual" [ref=e113] [cursor=pointer]
+              - button "AI" [ref=e114] [cursor=pointer]
+          - generic [ref=e115]:
+            - generic [ref=e116]:
+              - generic [ref=e117]:
+                - img [ref=e118]
+                - text: Manual queries
+              - generic [ref=e119]: 0 cards
+            - generic [ref=e120]:
+              - heading "No data cards yet" [level=4] [ref=e121]
+              - paragraph [ref=e122]:
+                - text: Select a district and click
+                - strong [ref=e123]: Show on map
+                - text: to pin your first card.
+          - generic [ref=e124]:
+            - generic [ref=e125]:
+              - generic [ref=e126]:
+                - img [ref=e127]
+                - text: AI generated
+              - generic [ref=e129]: 0 cards
+            - generic [ref=e130]:
+              - heading "No AI cards yet" [level=4] [ref=e131]
+              - paragraph [ref=e132]:
+                - text: Ask the
+                - strong [ref=e133]: Analyst
+                - text: on the right about spending patterns, trends, or comparisons.
+    - generic [ref=e134]:
+      - generic [ref=e135]:
+        - img [ref=e137]
+        - generic [ref=e139]:
+          - generic [ref=e140]: Analyst
+          - generic [ref=e141]: Online · reads your filters
+      - generic [ref=e143]:
+        - generic [ref=e144]: Analyst · welcome
+        - text: Hi! I can query spending flows, demographics, trends, and market data. Ask me anything about UK postcode districts.
+      - generic [ref=e145]:
+        - generic [ref=e146]:
+          - button "Top flows for SW" [ref=e147] [cursor=pointer]
+          - button "Manchester vs Leeds" [ref=e148] [cursor=pointer]
+          - button "Fastest growers 2024" [ref=e149] [cursor=pointer]
+          - button "Birmingham breakdown" [ref=e150] [cursor=pointer]
+        - generic [ref=e151]:
+          - textbox "Ask about districts, trends, demographics…" [ref=e152]
+          - button [disabled] [ref=e153]:
+            - img [ref=e154]
+  - button "Open Next.js Dev Tools" [ref=e162] [cursor=pointer]:
+    - img [ref=e163]
+  - alert [ref=e166]

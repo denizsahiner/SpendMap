@@ -1,0 +1,46 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - img [ref=e6]
+        - generic [ref=e9]: SpendMap
+      - heading "See where spend actually flows. Not just where it lives." [level=1] [ref=e10]:
+        - text: See where spend actually
+        - emphasis [ref=e11]: flows
+        - text: .
+        - text: Not just where it lives.
+      - paragraph [ref=e12]:
+        - text: Pin any UK postcode area and SpendMap surfaces the neighbours stealing basket-share, the ones you're quietly stealing from, and the agent-ready answer to
+        - emphasis [ref=e13]: why
+        - text: .
+      - generic:
+        - img:
+          - generic:
+            - generic: CV1
+            - generic:
+              - generic: M1
+            - generic:
+              - generic: B2
+            - generic:
+              - generic: LE3
+            - generic:
+              - generic: NG2
+            - generic:
+              - generic: OX4
+      - generic [ref=e14]:
+        - generic [ref=e15]: © 2026 SpendMap Ltd
+        - generic [ref=e16]: Privacy
+        - generic [ref=e17]: Security
+        - generic [ref=e18]: Status
+    - generic [ref=e20]:
+      - heading "Sign in to SpendMap" [level=1] [ref=e21]
+      - paragraph [ref=e22]: Enter your work email and we'll send a sign-in code.
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - generic [ref=e25]: Work email
+          - textbox "Work email" [active] [ref=e26]:
+            - /placeholder: you@company.com
+        - button "Send verification code" [ref=e27] [cursor=pointer]
+  - button "Open Next.js Dev Tools" [ref=e33] [cursor=pointer]:
+    - img [ref=e34]
+  - alert [ref=e37]
